@@ -85,7 +85,7 @@ void loop() {
   display.print("Distance");
   display.print(':');
   display.print(sensor.readRangeContinuousMillimeters());
-  display.println("MM");
+  display.print("MM");
   display.display();
   delay(500);
 if(digitalRead(BUTTON_UP)==LOW){
@@ -127,8 +127,3 @@ void badUSB(){
   Keyboard.end();
   delay(500); 
 }
-
-
-
-
-  
