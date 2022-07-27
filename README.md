@@ -11,3 +11,9 @@ the badusb code runs if your push up
 hold for up or down for both as there is a up and down delay. 
 
 
+in the documents folder is the "Documents/arduino/libraries i used"
+
+i have included my avr\libraries as well incase from in the programfiles(x86)
+
+
+
