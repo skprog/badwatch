@@ -30,3 +30,11 @@ Using library Keyboard at version 1.0.2 in folder: C:\Program Files (x86)\Arduin
 Using library HID at version 1.0 in folder: C:\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\HID 
 Using library RTClib at version 2.0.3 in folder: C:\Users\Admin\Documents\Arduino\libraries\RTClib 
  
+
+spi  , hid , wire go into the install directory\arduino\hardware\arduino\avr\libraries\
+
+keyboard and TFT go into install directory\arduino\libraries\
+
+the rest can be manually installed into the documents instal directory \Documents\Arduino\libraries
+
+
