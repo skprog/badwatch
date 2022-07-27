@@ -38,3 +38,15 @@ keyboard and TFT go into install directory\arduino\libraries\
 the rest can be manually installed into the documents instal directory \Documents\Arduino\libraries
 
 
+
+Tips :: 
+1. if your watch gets stuck running in a loop the keyboard because of something bad happening 
+you can reset it by uploading a brand new sketch hold the reset button plug in run / upload from audrino ide let go of reset button when it starts searching com ports. 
+
+2. i included the distance display code that i used as a base to get the watch working. if you find your watch isnt working with this code. 
+something about your watch may be diffrent than mine. best to start with the distance display code and work your way to rtc and other functionality. 
+also i noticed the println was wonky which is why its not in my demo code. 
+
+
+
+
